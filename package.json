@@ -1,0 +1,16 @@
+{
+  "name": "vectorrow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "python -m SimpleHTTPServer 3000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babylonjs": "^2.4.1",
+    "cannon": "^0.6.2",
+    "handjs": "^1.3.11"
+  }
+}
